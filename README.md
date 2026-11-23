@@ -52,7 +52,7 @@ production as a real-time scene to direct.
 ### ⚙ Gear
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,vue,vite,nodejs,java,py,cs,docker,githubactions,unity,unreal&perline=11" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,vue,vite,nodejs,java,cs,docker,unity,unreal&perline=9" alt="Stack" />
   <br />
   <img src="https://img.shields.io/badge/OBS_Studio-16171C?style=flat-square&logo=obsstudio&logoColor=F4F2EC" alt="OBS Studio" />
   <img src="https://img.shields.io/badge/Bitfocus_Companion-16171C?style=flat-square" alt="Bitfocus Companion" />
